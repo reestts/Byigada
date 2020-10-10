@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Byigada</string>
+    <string name="welcome">Добро пожаловать в БЙИГАДУ!</string>
+    <string name="start">Начать тест</string>
+    <string name="final_page">Твой результат:</string>
+
+    <string name="question_01">Вопрос 1: \n Основатель Бйигады?</string>
+    <string name="question_02">Вопрос 2: \n Может вне этих стен?</string>
+    <string name="question_03">Вопрос 3: \n Кто изображён на фото?</string>
+    <string name="question_04">Вопрос 4: \n Стецко состоял в Бйигаде?</string>
+    <string name="question_05">Вопрос 5: \n Не датчики, а?</string>
+    <string name="question_06">Вопрос 6: \n Шоплифтер года?</string>
+    <string name="question_07">Вопрос 7: \n Автор фразы \"Это подлог!\"?</string>
+    <string name="question_08">Вопрос 8: \n Где сделано фото?</string>
+    <string name="question_09">Вопрос 9: \n Бородин - это который?</string>
+    <string name="question_10">Вопрос 10: \n ВМССЮ - здесь все?</string>
+
+    <string name="question_01_answer_01">Гатчин</string>
+    <string name="question_01_answer_02">Махин</string>
+    <string name="question_02_answer_01">Конечно!</string>
+    <string name="question_02_answer_02">Нет!</string>
+    <string name="question_03_answer_01">Опа, Герас!</string>
+    <string name="question_03_answer_02">Кто это?</string>
+    <string name="question_04_answer_01">Да</string>
+    <string name="question_04_answer_02">Нет</string>
+    <string name="question_05_answer_01">Извещатели</string>
+    <string name="question_05_answer_02">Индикаторы</string>
+    <string name="question_06_answer_01">Володя</string>
+    <string name="question_06_answer_02">Володя</string>
+    <string name="question_07_answer_01">Слободянюк</string>
+    <string name="question_07_answer_02">Тертычный</string>
+    <string name="question_08_answer_01">оз. Красный богатырь</string>
+    <string name="question_08_answer_02">Сестрорецк</string>
+    <string name="question_09_answer_01">С бородой</string>
+    <string name="question_09_answer_02">Без бороды</string>
+    <string name="question_10_answer_01">Да</string>
+    <string name="question_10_answer_02">Нет</string>
+
+</resources>
