@@ -1,13 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion "29.0.3"
+    compileSdkVersion 32
 
     defaultConfig {
         applicationId "com.reestts.byigada"
         minSdkVersion 26
-        targetSdkVersion 29
+        targetSdkVersion 32
         versionCode 1
         versionName '1.0'
 
